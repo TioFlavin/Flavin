@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",MEGA PIX! 
-http://suatv.fun:80/live/871061387107/338007737326/415571.m3u8
+#EXTINF:1 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",MARIA
+http://suatv.fun:80/live/871061387107/338007737326/486969.m3u8
+#EXTINF:2 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",DARKFLIX
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
