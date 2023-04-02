@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",24H LA CASA DE PAPEL 02
-http://suatv.fun:80/live/871061387107/338007737326/486969.m3u8
+#EXTINF:1 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",SEM RETORNO
+http://s-marc-s.s3.us-east-2.wasabisys.com/s-march/FHD4/tt2140379.mp4
 #EXTINF:2 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",24H LA CASA DE PAPEL 03
 http://suatv.fun:80/live/871061387107/338007737326/486970.m3u8
 #EXTINF:3 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",24H LA CASA DE PAPEL 04
