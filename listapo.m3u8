@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:1 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",MARIA
+
+http://suatv.fun:80/live/871061387107/338007737326/486969.m3u8
+
+#EXTINF:2 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",DARKFLIX
+
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:3 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",EU A OATROA E AS CRIANÇAS 04
+
+http://suatv.fun:80/live/871061387107/338007737326/486926.m3u8
+
+#EXTINF:4 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",GALINHA PINTADINHA
+
+http://suatv.fun:80/live/871061387107/338007737326/486629.m3u8
+
+#EXTINF:5 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",GATO DE BOTAS 04
+
+http://suatv.fun:80/live/871061387107/338007737326/486634.m3u8
+
+#EXTINF:6 tvg-logo="https://i.ibb.co/sQHcDvr/1680229489698.png",GAME OF THRONES 08
+
+http://suatv.fun:80/live/871061387107/338007737326/486952.m3u8
