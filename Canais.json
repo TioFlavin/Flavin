@@ -572,25 +572,25 @@
     {
         "name": "Globo NE Nordeste FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67076.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "GLBRCFE"
     },
     {
         "name": "Globo NE Nordeste HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67077.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "GLBRCFE"
     },
     {
         "name": "Globo NE Nordeste SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67078.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "GLBRCFE"
     },
     {
         "name": "Globo News 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66904.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "GLN"
     },
     {
@@ -1024,211 +1024,211 @@
     {
         "name": "GNT 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66905.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "GNT"
     },
     {
         "name": "H2 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67278.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "H2SWE"
     },
     {
         "name": "H2 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67277.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "H2SWE"
     },
     {
         "name": "H2 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67276.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "H2SWE"
     },
     {
         "name": "HBO 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66891.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO Family FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67251.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOHDA"
     },
     {
         "name": "HBO Family HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67250.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOHDA"
     },
     {
         "name": "HBO Family SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67249.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOHDA"
     },
     {
         "name": "HBO FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67245.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67244.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO Mundi FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67254.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "MUNLEH"
     },
     {
         "name": "HBO Mundi HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67253.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "MUNLEH"
     },
     {
         "name": "HBO Mundi SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67252.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "MUNLEH"
     },
     {
         "name": "HBO POP FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67257.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "POPAM"
     },
     {
         "name": "HBO Pop HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67256.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "POPAM"
     },
     {
         "name": "HBO Pop SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67255.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "POPAM"
     },
     {
         "name": "HBO SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67243.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO Signature FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67260.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOSIG"
     },
     {
         "name": "HBO Signature HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67259.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOSIG"
     },
     {
         "name": "HBO Signature SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67258.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOSIG"
     },
     {
         "name": "HBO Xtreme FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67263.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOXLAM"
     },
     {
         "name": "HBO Xtreme HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67262.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOXLAM"
     },
     {
         "name": "HBO Xtreme SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67261.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOXLAM"
     },
     {
         "name": "HBO+ FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67266.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO+ HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67265.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO+ SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67264.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOCHIL"
     },
     {
         "name": "HBO2 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67248.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOPNHE"
     },
     {
         "name": "HBO2 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67247.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOPNHE"
     },
     {
         "name": "HBO2 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67246.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HBOPNHE"
     },
     {
         "name": "History Channel FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67275.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HISTJ"
     },
     {
         "name": "History Channel HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67274.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HISTJ"
     },
     {
         "name": "History Channel SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67273.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "HISTJ"
     },
     {
         "name": "ID - Investigation Discovery FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66967.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "IDSAP"
     },
     {
         "name": "ID - Investigation Discovery HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66966.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "IDSAP"
     },
     {
         "name": "ID - Investigation Discovery SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66965.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "IDSAP"
     },
     {
@@ -1250,181 +1250,181 @@
     {
         "name": "Multishow 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66893.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "MSW"
     },
     {
         "name": "National Geographic FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67281.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "NGCENTE"
     },
     {
         "name": "National Geographic HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67280.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "NGCENTE"
     },
     {
         "name": "National Geographic SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67279.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "NGCENTE"
     },
     {
         "name": "National Geographics 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66894.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "NGCENTE"
     },
     {
         "name": "Premiere 2 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67287.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR2SPO"
     },
     {
         "name": "Premiere 2 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67286.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR2SPO"
     },
     {
         "name": "Premiere 2 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67285.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR2SPO"
     },
     {
         "name": "Premiere 3 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67290.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR3UBE"
     },
     {
         "name": "Premiere 3 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67289.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR3UBE"
     },
     {
         "name": "Premiere 3 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67288.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR3UBE"
     },
     {
         "name": "Premiere 4 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67293.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRMR4"
     },
     {
         "name": "Premiere 4 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67292.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRMR4"
     },
     {
         "name": "Premiere 4 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67291.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRMR4"
     },
     {
         "name": "Premiere 5 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67296.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR2SPO"
     },
     {
         "name": "Premiere 5 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67295.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR2SPO"
     },
     {
         "name": "Premiere 5 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67294.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PR2SPO"
     },
     {
         "name": "Premiere 6 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67299.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRM6BR"
     },
     {
         "name": "Premiere 6 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67298.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRM6BR"
     },
     {
         "name": "Premiere 6 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67297.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRM6BR"
     },
     {
         "name": "Premiere 7 FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67302.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRM7BR"
     },
     {
         "name": "Premiere 7 HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67301.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRM7BR"
     },
     {
         "name": "Premiere 7 SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67300.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRM7BR"
     },
     {
         "name": "Premiere Clubes 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66879.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PFCLSD"
     },
     {
         "name": "Premiere Clubes FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67305.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PFCLSD"
     },
     {
         "name": "Premiere Clubes HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67304.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PFCLSD"
     },
     {
         "name": "Premiere Clubes SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67303.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PFCLSD"
     },
     {
         "name": "Prime Box Brazil FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67284.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRMBOXB"
     },
     {
         "name": "Prime Box Brazil HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67283.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRMBOXB"
     },
     {
         "name": "Prime Box Brazil SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67282.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "PRMBOXB"
     },
     {
@@ -1482,13 +1482,13 @@
     {
         "name": "Rede Brasil SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66922.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "REDEBR"
     },
     {
         "name": "Rede Fam\u00edlia HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66923.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "RFAM"
     },
     {
@@ -1502,25 +1502,25 @@
     {
         "name": "Rede TV! 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66895.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "REDEITV"
     },
     {
         "name": "RedeTV! FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66926.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "REDETV"
     },
     {
         "name": "RedeTV! HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66925.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "REDETV"
     },
     {
         "name": "RedeTV! SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66924.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "REDETV"
     },
     {
@@ -1530,7 +1530,7 @@
     {
         "name": "SBT 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66881.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "SBT"
     },
     {
@@ -1572,7 +1572,7 @@
     {
         "name": "SporTV 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66882.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "SPORTV"
     },
     {
@@ -1626,109 +1626,109 @@
     {
         "name": "Telecine Action FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67227.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCA"
     },
     {
         "name": "Telecine Action HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67226.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCA"
     },
     {
         "name": "Telecine Action SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67225.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCA"
     },
     {
         "name": "Telecine Cult FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67230.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCCL"
     },
     {
         "name": "Telecine Cult HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67229.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCCL"
     },
     {
         "name": "Telecine Cult SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67228.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCCL"
     },
     {
         "name": "Telecine Fun FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67233.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCF"
     },
     {
         "name": "Telecine Fun HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67232.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCF"
     },
     {
         "name": "Telecine Fun SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67231.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCF"
     },
     {
         "name": "Telecine Pipoca FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67236.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCPIP"
     },
     {
         "name": "Telecine Pipoca HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67235.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCPIP"
     },
     {
         "name": "Telecine Pipoca SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67234.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCPIP"
     },
     {
         "name": "Telecine Pipoca4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66883.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCPIP"
     },
     {
         "name": "Telecine Premium 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66884.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCP"
     },
     {
         "name": "Telecine Premium FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67239.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCP"
     },
     {
         "name": "Telecine Premium HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67238.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCP"
     },
     {
         "name": "Telecine Premium SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67237.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCP"
     },
     {
         "name": "Telecine Touch FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67242.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCTCH"
     },
     {
@@ -1738,49 +1738,49 @@
     {
         "name": "Telecine Touch SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/67240.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TCTCH"
     },
     {
         "name": "Terra Viva",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66927.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "VIVA"
     },
     {
         "name": "TV Brasil FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66930.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TVEB"
     },
     {
         "name": "TV Brasil HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66929.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TVEB"
     },
     {
         "name": "TV Brasil SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66928.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TVEB"
     },
     {
         "name": "TV Cultura FHD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66934.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "ZYB851"
     },
     {
         "name": "TV Cultura HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66933.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "ZYB851"
     },
     {
         "name": "TV Cultura SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66932.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "ZYB851"
     },
     {
@@ -1790,25 +1790,25 @@
     {
         "name": "TV Gazeta HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66936.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "ZYA221"
     },
     {
         "name": "TV Senado",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66938.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "SN"
     },
     {
         "name": "TVE Brasil SD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66939.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "TVEB"
     },
     {
         "name": "Viva 4K",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66907.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "VIVABR"
     },
     {
@@ -3674,13 +3674,13 @@
     {
         "name": "SEXTREME",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66872.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "SEXTREA"
     },
     {
         "name": "SEXY HOT HD",
         "url": "http://iptv.cineliso.com:80/live/cinelisotv/baximovi/66873.m3u8",
-        "tvg-logo": ",
+        "tvg-logo": "",
         "group-title": "SEXYHOT"
     },
     {
