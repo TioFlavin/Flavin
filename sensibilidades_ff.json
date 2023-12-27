@@ -496,5 +496,505 @@
         "Mira 4x": 86,
         "Mira AWM": 43,
         "Olhadinha": 61
-    }
+    },
+    {
+    "Nome da Sensi": "G54",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 79,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 71,
+    "DPI": 450
+  },
+  {
+    "Nome da Sensi": "Samsung galaxy a03",
+    "Sensibilidade Geral": 94,
+    "Mira Ponto": 100,
+    "Mira 2x": 85,
+    "Mira 4x": 76,
+    "Mira AWM": 24,
+    "Olhadinha": 33,
+    "DPI": 500
+  },
+  {
+    "Nome da Sensi": "Sensi p/galaxy tab s7",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 100,
+    "Mira 2x": 100,
+    "Mira 4x": 100,
+    "Mira AWM": 100,
+    "Olhadinha": 100,
+    "DPI": 1099
+  },
+  {
+    "Nome da Sensi": "Poco f3",
+    "Sensibilidade Geral": 80,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 93,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "xiomi 9a",
+    "Sensibilidade Geral": 90,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 960
+  },
+  {
+    "Nome da Sensi": "Galax a03 CORE",
+    "Sensibilidade Geral": 98,
+    "Mira Ponto": 85,
+    "Mira 2x": 88,
+    "Mira 4x": 97,
+    "Mira AWM": 75,
+    "Olhadinha": 1,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "henrique a02s",
+    "Sensibilidade Geral": 90,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 94,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Capa com arma de um tiro",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 12,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 233
+  },
+  {
+    "Nome da Sensi": "S3nsi para galaxi a 23",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 9,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 420
+  },
+  {
+    "Nome da Sensi": "S3nsi para galaxi a 23",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 9,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 420
+  },
+  {
+    "Nome da Sensi": "Galaxy A03s",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 100,
+    "Mira 2x": 100,
+    "Mira 4x": 100,
+    "Mira AWM": 100,
+    "Olhadinha": 50,
+    "DPI": 750
+  },
+  {
+    "Nome da Sensi": "Redemi note 11",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 100,
+    "Mira 2x": 90,
+    "Mira 4x": 69,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 999
+  },
+  {
+    "Nome da Sensi": "Moto e7 power",
+    "Sensibilidade Geral": 99,
+    "Mira Ponto": 100,
+    "Mira 2x": 99,
+    "Mira 4x": 100,
+    "Mira AWM": 57,
+    "Olhadinha": 1,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Moto e22",
+    "Sensibilidade Geral": 95,
+    "Mira Ponto": 98,
+    "Mira 2x": 100,
+    "Mira 4x": 88,
+    "Mira AWM": 50,
+    "Olhadinha": 100,
+    "DPI": 500
+  },
+  {
+    "Nome da Sensi": "A03s",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 23,
+    "Mira 2x": 92,
+    "Mira 4x": 84,
+    "Mira AWM": 34,
+    "Olhadinha": 1,
+    "DPI": 540
+  },
+  {
+    "Nome da Sensi": "MotoG22",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 100,
+    "Mira 2x": 100,
+    "Mira 4x": 100,
+    "Mira AWM": 100,
+    "Olhadinha": 100,
+    "DPI": 960
+  },
+  {
+    "Nome da Sensi": "S\u00f3 capa",
+    "Sensibilidade Geral": 96,
+    "Mira Ponto": 95,
+    "Mira 2x": 98,
+    "Mira 4x": 97,
+    "Mira AWM": 42,
+    "Olhadinha": 81,
+    "DPI": 360
+  },
+  {
+    "Nome da Sensi": "Samsung",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 15,
+    "Mira AWM": 96,
+    "Olhadinha": 50,
+    "DPI": 200
+  },
+  {
+    "Nome da Sensi": "Henriqsenxit",
+    "Sensibilidade Geral": 42,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 15,
+    "DPI": 968
+  },
+  {
+    "Nome da Sensi": "Galaxy a 13",
+    "Sensibilidade Geral": 89,
+    "Mira Ponto": 88,
+    "Mira 2x": 84,
+    "Mira 4x": 72,
+    "Mira AWM": 79,
+    "Olhadinha": 85,
+    "DPI": 348
+  },
+  {
+    "Nome da Sensi": "Iphone 7",
+    "Sensibilidade Geral": 49,
+    "Mira Ponto": 79,
+    "Mira 2x": 92,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 117
+  },
+  {
+    "Nome da Sensi": "Cerol",
+    "Sensibilidade Geral": 84,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 62,
+    "Mira AWM": 75,
+    "Olhadinha": 68,
+    "DPI": 950
+  },
+  {
+    "Nome da Sensi": "sensi para moto g20",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 76,
+    "DPI": 720
+  },
+  {
+    "Nome da Sensi": "A 03 core",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 50,
+    "Mira 2x": 89,
+    "Mira 4x": 50,
+    "Mira AWM": 35,
+    "Olhadinha": 20,
+    "DPI": 423
+  },
+  {
+    "Nome da Sensi": "Two9mobile",
+    "Sensibilidade Geral": 88,
+    "Mira Ponto": 100,
+    "Mira 2x": 100,
+    "Mira 4x": 100,
+    "Mira AWM": 19,
+    "Olhadinha": 98,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Sensibilidade mais o menos",
+    "Sensibilidade Geral": 92,
+    "Mira Ponto": 94,
+    "Mira 2x": 90,
+    "Mira 4x": 86,
+    "Mira AWM": 50,
+    "Olhadinha": 100,
+    "DPI": 534
+  },
+  {
+    "Nome da Sensi": "Sendo dos deuses",
+    "Sensibilidade Geral": 54,
+    "Mira Ponto": 68,
+    "Mira 2x": 59,
+    "Mira 4x": 62,
+    "Mira AWM": 1,
+    "Olhadinha": 1,
+    "DPI": 518
+  },
+  {
+    "Nome da Sensi": "Sendo dos deuses",
+    "Sensibilidade Geral": 54,
+    "Mira Ponto": 68,
+    "Mira 2x": 59,
+    "Mira 4x": 62,
+    "Mira AWM": 1,
+    "Olhadinha": 1,
+    "DPI": 518
+  },
+  {
+    "Nome da Sensi": "Sensi do ruok mobile",
+    "Sensibilidade Geral": 95,
+    "Mira Ponto": 83,
+    "Mira 2x": 100,
+    "Mira 4x": 94,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 545
+  },
+  {
+    "Nome da Sensi": "A54",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 96,
+    "Olhadinha": 50,
+    "DPI": 384
+  },
+  {
+    "Nome da Sensi": "Xx \u0411\u0443\u0440\u043c\u0438\u043a\u0441",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 48,
+    "DPI": 400
+  },
+  {
+    "Nome da Sensi": "Tecno spark Go 2023",
+    "Sensibilidade Geral": 90,
+    "Mira Ponto": 80,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 100,
+    "Olhadinha": 100,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Sensi para Gakaxy S20",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 78,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 490
+  },
+  {
+    "Nome da Sensi": "Samsung galaxy a10",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 69,
+    "Mira 4x": 91,
+    "Mira AWM": 51,
+    "Olhadinha": 87,
+    "DPI": 450
+  },
+  {
+    "Nome da Sensi": "A01 capa",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 78,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 500
+  },
+  {
+    "Nome da Sensi": "Full capa a01",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 81,
+    "Mira 4x": 50,
+    "Mira AWM": 59,
+    "Olhadinha": 63,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Full capa",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 81,
+    "Mira AWM": 79,
+    "Olhadinha": 50,
+    "DPI": 500
+  },
+  {
+    "Nome da Sensi": "iPhone 11",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 55,
+    "Olhadinha": 50,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Sensi p/ galaxy a23",
+    "Sensibilidade Geral": 71,
+    "Mira Ponto": 65,
+    "Mira 2x": 86,
+    "Mira 4x": 70,
+    "Mira AWM": 87,
+    "Olhadinha": 1,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "sensi do nobru",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 100,
+    "Mira 2x": 100,
+    "Mira 4x": 100,
+    "Mira AWM": 100,
+    "Olhadinha": 100,
+    "DPI": 820
+  },
+  {
+    "Nome da Sensi": "Redmi note 12",
+    "Sensibilidade Geral": 93,
+    "Mira Ponto": 84,
+    "Mira 2x": 87,
+    "Mira 4x": 69,
+    "Mira AWM": 76,
+    "Olhadinha": 100,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Samsumg a14",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 80,
+    "Mira AWM": 83,
+    "Olhadinha": 50,
+    "DPI": 1440
+  },
+  {
+    "Nome da Sensi": "Kdm",
+    "Sensibilidade Geral": 90,
+    "Mira Ponto": 75,
+    "Mira 2x": 80,
+    "Mira 4x": 85,
+    "Mira AWM": 81,
+    "Olhadinha": 100,
+    "DPI": 111
+  },
+  {
+    "Nome da Sensi": "Gouveia",
+    "Sensibilidade Geral": 100,
+    "Mira Ponto": 50,
+    "Mira 2x": 85,
+    "Mira 4x": 50,
+    "Mira AWM": 50,
+    "Olhadinha": 92,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Sensi pra redmi 9c",
+    "Sensibilidade Geral": 96,
+    "Mira Ponto": 93,
+    "Mira 2x": 84,
+    "Mira 4x": 91,
+    "Mira AWM": 87,
+    "Olhadinha": 88,
+    "DPI": 960
+  },
+  {
+    "Nome da Sensi": "Full capa a01",
+    "Sensibilidade Geral": 69,
+    "Mira Ponto": 90,
+    "Mira 2x": 91,
+    "Mira 4x": 80,
+    "Mira AWM": 50,
+    "Olhadinha": 78,
+    "DPI": 411
+  },
+  {
+    "Nome da Sensi": "Sensi para o galaxy a11",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 50,
+    "Mira 2x": 50,
+    "Mira 4x": 50,
+    "Mira AWM": 1,
+    "Olhadinha": 46,
+    "DPI": 586
+  },
+  {
+    "Nome da Sensi": "sensi lg k12+",
+    "Sensibilidade Geral": 89,
+    "Mira Ponto": 90,
+    "Mira 2x": 81,
+    "Mira 4x": 90,
+    "Mira AWM": 80,
+    "Olhadinha": 20,
+    "DPI": 360
+  },
+  {
+    "Nome da Sensi": "Redmi 9A",
+    "Sensibilidade Geral": 50,
+    "Mira Ponto": 25,
+    "Mira 2x": 50,
+    "Mira 4x": 29,
+    "Mira AWM": 50,
+    "Olhadinha": 50,
+    "DPI": 600
+  },
+  {
+    "Nome da Sensi": "Galaxy a0s sem dpi",
+    "Sensibilidade Geral": 94,
+    "Mira Ponto": 100,
+    "Mira 2x": 78,
+    "Mira 4x": 100,
+    "Mira AWM": 21,
+    "Olhadinha": 87,
+    "DPI": 511
+  }
 ]
